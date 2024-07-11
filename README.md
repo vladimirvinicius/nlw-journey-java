@@ -1,11 +1,11 @@
 <h1 align="center"> Planner </h1>
 
-<p align="center">
-NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-</p>
+## 💻 Projeto
+
+Um planejador de viagens que tem como objetivo ajudar o usuário a organizar viagens à trabalho ou lazer.
 
 <p align="center">
-  <img alt="nlw-journey-java" src=".github/preview.png" width="100%">
+  <img alt="nlw-journey-java" src=".github/final.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -17,9 +17,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Projeto
+---
 
-O Planner é um planejador de viagens que tem como objetivo ajudar o usuário a organizar viagens à trabalho ou lazer.
+<p align="center">
+NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+</p>
 
 ---
 
